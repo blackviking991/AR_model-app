@@ -6,4 +6,6 @@ Kshitiz Jain
 Chinmay Patil
 Saatvik Chugh
 
+The jpeg files are provided in the repo for scanning and testing the app
+
 We developed it for our Hackathon project in Hack36.
